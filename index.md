@@ -5,6 +5,7 @@ https://github.com/dremovd/rest-api-qr-check
 
 ## Автоматическое разбиение чека по категориям трат 
 [Пример работы модели](https://github.com/dremovd/rest-api-qr-check/blob/master/model-example)
+
 Качество модели:
 * NN.N% точных
 * NN.N% неточных
