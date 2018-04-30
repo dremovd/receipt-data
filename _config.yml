@@ -2,6 +2,7 @@ theme: jekyll-theme-leap-day
 
 # Name of your blog (this will show up at the top of your page and in the RSS feed)
 name: Данные электронных чеков
+title: Анализ кассовых чеков
 
 # Short description (goes below the title; it will also be used in the RSS feed)
 description: Проекты связанные с обработкой и анализом данных электронных чеков 
