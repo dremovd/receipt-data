@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# Данные кассовых чеков и работа с ними
 
-You can use the [editor on GitHub](https://github.com/dremovd/receipt-data/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Сервис получения данных по QR коду в чеке
+https://github.com/dremovd/rest-api-qr-check
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Автоматическое разбиение чека по категориям трат 
+[Пример работы модели](https://github.com/dremovd/rest-api-qr-check/blob/master/model-example)
+Качество модели:
+* NN.N% точных
+* NN.N% неточных
+* NN.N% ошибок
 
-### Markdown
+## Приложение по ведению расходов на Andro
+* [Google Play](http://bit.ly/2JCAPPe)
+* [Предложения](http://bit.ly/2HIkfwV)
+* [Страница на 4pda](http://bit.ly/2r9CVzq)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Конкурсы по анализу данных
+### Конкурс на лучшую модель разбиения чека по категориям трат
+Даты окончания - 23.04.2018
+* [Конкурс на Kaggle](http://bit.ly/2FsR9zK)
+* [Лидеры](http://bit.ly/2HYbDWp)
+* [Решение 3-го места](http://bit.ly/2I20HGY)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dremovd/receipt-data/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Данные
+Данные разрешено использовать без согласования для образовательных и исследовательских целей. При желании использовать данные для коммерческих целей - приглашаю к обсуждению.
+* [Чеки с размеченными категориями покупок](https://yadi.sk/d/hXRaGss23UycW8)
+* 
+* 
